@@ -28,7 +28,7 @@ Make sure you have the tools required for this stack installed (e.g. Python 3.10
 ### Installation & Usage
 
 ```bash
-git clone https://github.com/<your-username>/sheet-writer.git
+git clone https://github.com/<your-username>/google-sheet-writer.git
 cd sheet-writer
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
